@@ -10,7 +10,6 @@ import Header from './components/navbar'
 import Services from './components/services'
 import Test from './components/faq'
 import CookiesMessage from './components/cookies'
-import Faq from './components/faq'
 
 
  function Home() {
@@ -19,7 +18,6 @@ import Faq from './components/faq'
     <CookiesMessage />
     <Header />
     <Services />
-    <Faq />
    </>
   )
 }
