@@ -8,7 +8,6 @@ const Context = createContext(0)
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/navbar'
 import Services from './components/services'
-import Test from './components/faq'
 import CookiesMessage from './components/cookies'
 
 
